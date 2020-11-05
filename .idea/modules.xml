@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TacoSpigot-API/api.iml" filepath="$PROJECT_DIR$/TacoSpigot-API/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TacoSpigot-API/src/main/main.iml" filepath="$PROJECT_DIR$/TacoSpigot-API/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TacoSpigot-Server/src/main/main1.iml" filepath="$PROJECT_DIR$/TacoSpigot-Server/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TacoSpigot-Server/server.iml" filepath="$PROJECT_DIR$/TacoSpigot-Server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TacoSpigot-Server/src/test/test.iml" filepath="$PROJECT_DIR$/TacoSpigot-Server/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TacoSpigot-API/src/test/test1.iml" filepath="$PROJECT_DIR$/TacoSpigot-API/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>
